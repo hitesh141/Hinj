@@ -1,0 +1,73 @@
+10
+
+dir
+7878
+http://192.168.1.11:8080/svn/Android/Hinj_App/code/Hinj/res
+http://192.168.1.11:8080/svn/Android
+
+
+
+2015-03-09T05:51:30.148837Z
+7856
+hiteshm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eaf4c0b1-881c-054f-9045-4ed489ea4656
+
+values-sw720dp-land
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+drawable-xhdpi
+dir
+
+values-v9
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+xml
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

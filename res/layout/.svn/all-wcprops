@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Android/!svn/ver/7856/Hinj_App/code/Hinj/res/layout
+END
+fragment_apps_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/fragment_apps_list.xml
+END
+efp__list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/efp__list_item.xml
+END
+fragment_pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_pages.xml
+END
+activity_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/res/layout/activity_login.xml
+END
+fragment_file_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/fragment_file_detail.xml
+END
+aaaaaa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/aaaaaa.xml
+END
+list_item_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7879/Hinj_App/code/Hinj/res/layout/list_item_contacts.xml
+END
+popup_layout_bottombar_clipboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/res/layout/popup_layout_bottombar_clipboard.xml
+END
+photo_full_view_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/photo_full_view_fragment.xml
+END
+efp__main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/efp__main_activity.xml
+END
+popup_layout_bottombar_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/res/layout/popup_layout_bottombar_url.xml
+END
+lock_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/lock_main.xml
+END
+file_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/file_item.xml
+END
+drawer_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/drawer_list_item.xml
+END
+music_list_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Android/!svn/ver/7856/Hinj_App/code/Hinj/res/layout/music_list_fragment.xml
+END
+fragment_camera_capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/res/layout/fragment_camera_capture.xml
+END
+list_item_fragment_apps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7940/Hinj_App/code/Hinj/res/layout/list_item_fragment_apps.xml
+END
+video_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/video_view.xml
+END
+fake_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fake_screen.xml
+END
+main2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/main2.xml
+END
+fragment_community.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_community.xml
+END
+activity_child_connect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/res/layout/activity_child_connect.xml
+END
+list_item_audio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_audio.xml
+END
+video_detail_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Android/!svn/ver/7879/Hinj_App/code/Hinj/res/layout/video_detail_fragment.xml
+END
+row_fragment_file_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/row_fragment_file_detail.xml
+END
+list_item_video.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_video.xml
+END
+fragment_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/res/layout/fragment_account.xml
+END
+fragment_audio_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_audio_list.xml
+END
+fragment_browser_history_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/res/layout/fragment_browser_history_list.xml
+END
+audio_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/audio_list_row.xml
+END
+custom_notofication.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/custom_notofication.xml
+END
+efp__empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/efp__empty.xml
+END
+tackepicmain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/tackepicmain.xml
+END
+simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/simple.xml
+END
+video_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/video_row.xml
+END
+fragment_photos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_photos.xml
+END
+fragment_contact_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/res/layout/fragment_contact_detail.xml
+END
+photo_detail_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/res/layout/photo_detail_row.xml
+END
+fragment_message_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_message_list.xml
+END
+list_item_call_log_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_call_log_detail.xml
+END
+list_item_call_logs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_call_logs.xml
+END
+activity_barcode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/activity_barcode.xml
+END
+blackscreen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/blackscreen.xml
+END
+activitty_base_qrcodescan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activitty_base_qrcodescan.xml
+END
+list_item_browser_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/res/layout/list_item_browser_history.xml
+END
+activity_connected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_connected.xml
+END
+video_detail_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/video_detail_row.xml
+END
+activity_barcode_scan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_barcode_scan.xml
+END
+list_item_messgae_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_messgae_detail.xml
+END
+photo_detail_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/photo_detail_grid.xml
+END
+contact_update_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/contact_update_fragment.xml
+END
+fragment_whats_hot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_whats_hot.xml
+END
+audio_list_click_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/res/layout/audio_list_click_fragment.xml
+END
+grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/grid.xml
+END
+list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/list_item.xml
+END
+dialog_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/dialog_list.xml
+END
+customdailog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/customdailog.xml
+END
+activity_barcode_maker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_barcode_maker.xml
+END
+efp__grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/efp__grid_item.xml
+END
+activity_device_connected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7945/Hinj_App/code/Hinj/res/layout/activity_device_connected.xml
+END
+list_item_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_message.xml
+END
+activity_forgot_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_forgot_password.xml
+END
+list_item_options_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/list_item_options_list.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_main.xml
+END
+s.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/s.xml
+END
+popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/popup.xml
+END
+activity_dashboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_dashboard.xml
+END
+fragment_videos_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_videos_list.xml
+END
+fragment_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_home.xml
+END
+efp__new_folder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/res/layout/efp__new_folder.xml
+END
+main_spy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/main_spy.xml
+END
+activity_device_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7945/Hinj_App/code/Hinj/res/layout/activity_device_details.xml
+END
+fragment_call_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/res/layout/fragment_call_detail.xml
+END
+fragment_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_settings.xml
+END
+fragment_message_detail_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_message_detail_list.xml
+END
+fragment_photos_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/fragment_photos_list.xml
+END
+fragment_contacts_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/res/layout/fragment_contacts_list.xml
+END
+fragment_about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_about.xml
+END
+photo_detail_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/photo_detail_fragment.xml
+END
+activity_register.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/res/layout/activity_register.xml
+END
+fragment_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/res/layout/fragment_file.xml
+END
+dialogbrand_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7916/Hinj_App/code/Hinj/res/layout/dialogbrand_layout.xml
+END
+fragment_locate_device_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_locate_device_list.xml
+END
+list_item_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/list_item_account.xml
+END
+activity_splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/activity_splash.xml
+END
+fragment_find_people.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_find_people.xml
+END
+bottom_menu_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/bottom_menu_bar.xml
+END
+fragment_call_logs_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/res/layout/fragment_call_logs_list.xml
+END
+list_item_install_app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/res/layout/list_item_install_app.xml
+END

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+      xmlns:tools="http://schemas.android.com/tools">
+    
+    <item
+        android:id="@+id/dial_lay_download"         
+        android:title="Download"/>
+    <item
+        android:id="@+id/dial_lay_delete"         
+        android:title="Delete" />
+    <item
+        android:id="@+id/dial_lay_rename"         
+        android:title="Rename"/>
+    <item
+        android:id="@+id/dial_lay_properties"         
+        android:title="Properties"/>
+
+</menu>

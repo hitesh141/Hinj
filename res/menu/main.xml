@@ -1,0 +1,65 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/title"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/title"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/icon_setting"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/icon_share"
+        android:title="@string/action_share"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/icon_about"
+        android:title="@string/action_about"/>
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/icon_quit"
+        android:title="@string/action_exit"/>
+
+    <!-- <item -->
+    <!-- android:id="@+id/action_mkdir" -->
+    <!-- android:orderInCategory="100" -->
+    <!-- android:showAsAction="never" -->
+    <!-- android:title="@string/action_mkdir"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/action_selectall" -->
+    <!-- android:showAsAction="always" -->
+    <!-- android:title="@string/action_selectall"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/action_unselectall" -->
+    <!-- android:showAsAction="never" -->
+    <!-- android:title="@string/action_unselectall"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/action_copy" -->
+    <!-- android:showAsAction="never" -->
+    <!-- android:title="@string/action_copy"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/action_move" -->
+    <!-- android:showAsAction="never" -->
+    <!-- android:title="@string/action_move" -->
+    <!-- /> -->
+    <!-- <item -->
+    <!-- android:id="@+id/action_paste" -->
+    <!-- android:showAsAction="never" -->
+    <!-- android:title="@string/action_paste" -->
+    <!-- /> -->
+    <!-- <item -->
+    <!-- android:id="@+id/action_delete" -->
+    <!-- android:showAsAction="never" -->
+    <!-- android:title="@string/action_delete" -->
+    <!-- /> -->
+
+</menu>

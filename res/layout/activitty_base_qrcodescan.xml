@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f3f4f6"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#da4a47"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textViewHeaderTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@+id/buttonAddContact"
+            android:layout_toRightOf="@+id/buttonBack"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/buttonAddContact"
+            android:layout_width="25dip"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/icon_right_menu" />
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="35dip"
+            android:layout_height="35dip"
+            android:layout_alignBaseline="@+id/textViewHeaderTitle"
+            android:layout_alignBottom="@+id/textViewHeaderTitle"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="38dp"
+            android:background="@drawable/icon_navbar" />
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="35dip"
+            android:layout_height="35dip"
+            android:layout_alignBaseline="@+id/buttonAddContact"
+            android:layout_alignBottom="@+id/buttonAddContact"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/ic_drawer" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dip"
+        android:text="ENTER THIS ID"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="5dip"
+        android:text="12141"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#d14a4b"
+        android:textStyle="bold" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dip" >
+
+        <TextView
+            android:id="@+id/sign_up_txtView"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_gravity="center"
+            android:background="@drawable/conection_sepretor"
+            android:paddingTop="5dip"
+            android:textColor="#52c66f" />
+
+        <TextView
+            android:id="@+id/sign_up_txtView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/or" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dip"
+        android:text="SCAN THIS QR CODE"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <FrameLayout
+        android:id="@+id/qrcodescan_LL"
+        android:layout_width="match_parent"
+        android:layout_height="150dip"
+        android:layout_margin="30dip"
+        android:layout_weight="1.00"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:padding="5dip" >
+    </FrameLayout>
+
+</LinearLayout>

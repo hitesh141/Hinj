@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/src/com/hinj/app/social
+END
+FacebookSignInHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/src/com/hinj/app/social/FacebookSignInHelper.java
+END
+FacebookSignInReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/social/FacebookSignInReceiver.java
+END
+GooglePlusSignInHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/social/GooglePlusSignInHelper.java
+END
+GooglePlusSignInReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/social/GooglePlusSignInReceiver.java
+END

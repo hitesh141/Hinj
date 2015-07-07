@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/imageload
+END
+BitmapCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/imageload/BitmapCache.java
+END
+BasicBitmapCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/imageload/BasicBitmapCache.java
+END
+LinkedBlockingStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/imageload/LinkedBlockingStack.java
+END
+NetworkResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/imageload/NetworkResourceLoader.java
+END
+FileSystemPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/imageload/FileSystemPersistence.java
+END
+BitmapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/imageload/BitmapUtil.java
+END
+HttpImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/imageload/HttpImageManager.java
+END

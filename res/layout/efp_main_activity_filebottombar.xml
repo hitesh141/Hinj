@@ -1,0 +1,331 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/header1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#e5e5e5"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="26dp" >
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.20"
+                android:gravity="center|left"
+                android:paddingLeft="10dip" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="2dip"
+                    android:src="@drawable/icon_file" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:text="Upload File"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <ImageButton
+                    android:id="@+id/menu_cancel1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/icon_remove_app"
+                    android:contentDescription="@android:string/cancel"
+                    android:scaleType="center" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignWithParentIfMissing="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_toLeftOf="@+id/menu_sort1"
+            android:layout_toRightOf="@+id/menu_cancel1"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:visibility="invisible" />
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="0.12"
+            android:gravity="center|right"
+            android:paddingLeft="10dip"
+            android:weightSum="100" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="50" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/search_LL"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="58.68"
+                android:gravity="center|right" >
+
+                <ImageButton
+                    android:id="@+id/file_menu_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dip"
+                    android:background="@drawable/icon_search"
+                    android:contentDescription="@string/efp__sort"
+                    android:scaleType="center" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/menu_sort1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dip"
+            android:layout_toLeftOf="@+id/menu_new_folder"
+            android:background="@drawable/icon_sort"
+            android:contentDescription="@string/efp__sort"
+            android:scaleType="center"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/menu_new_folder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dip"
+            android:layout_toLeftOf="@+id/menu_change_view"
+            android:background="@drawable/icon_new_folder"
+            android:contentDescription="@string/efp__new_folder"
+            android:scaleType="center"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/menu_ok1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="25dp"
+            android:background="@drawable/icon_upload"
+            android:contentDescription="@android:string/ok"
+            android:scaleType="center"
+            android:visibility="gone" />
+
+        <View
+            android:id="@+id/ok1_delimiter"
+            android:layout_width="1dip"
+            android:layout_height="24dp"
+            android:layout_alignWithParentIfMissing="true"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/menu_ok1"
+            android:background="@color/efp__header_divider_color"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/menu_change_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignWithParentIfMissing="true"
+            android:layout_toLeftOf="@+id/ok1_delimiter"
+            android:background="@drawable/efp__header_buttons_selector"
+            android:scaleType="center"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/header2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#e5e5e5"
+        android:gravity="center_vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:id="@+id/menu_cancel2"
+                android:layout_width="match_parent"
+                android:layout_height="26dp"
+                android:layout_weight="0.52" >
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center|left"
+                    android:paddingLeft="10dip" >
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="2dip"
+                        android:src="@drawable/icon_file" />
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dip"
+                        android:text="Files"
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="20dp"
+                        android:background="@drawable/icon_remove_app"
+                        android:contentDescription="@android:string/cancel"
+                        android:scaleType="center" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/menu_sort2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@+id/menu_select_all"
+            android:background="@drawable/icon_sort"
+            android:contentDescription="@string/efp__sort"
+            android:scaleType="center" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1dip"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/menu_ok2"
+            android:background="@color/efp__header_divider_color"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:id="@+id/menu_invert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@+id/view1"
+            android:background="@drawable/efp__header_buttons_selector"
+            android:contentDescription="@string/efp__action_invert_selection"
+            android:scaleType="center" />
+
+        <ImageButton
+            android:id="@+id/menu_ok2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/icon_upload"
+            android:contentDescription="@android:string/ok"
+            android:scaleType="center" />
+
+        <ImageButton
+            android:id="@+id/menu_deselect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@+id/menu_invert"
+            android:background="@drawable/efp__header_buttons_selector"
+            android:contentDescription="@string/efp__action_deselect"
+            android:scaleType="center" />
+
+        <ImageButton
+            android:id="@+id/menu_select_all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@+id/menu_deselect"
+            android:background="@drawable/efp__header_buttons_selector"
+            android:contentDescription="@string/efp__action_select_all"
+            android:scaleType="center" />
+
+        <View
+            android:layout_width="1dip"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/menu_cancel2"
+            android:background="@color/efp__header_divider_color" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="48dp"
+        android:background="#fff" />
+
+    <LinearLayout
+        android:id="@+id/lay_edit_file_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line"
+        android:padding="2dp"
+        android:visibility="gone" >
+
+        <EditText
+            android:id="@+id/editTextFileSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:imeOptions="actionSearch"
+            android:singleLine="true" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/lay_edit_file_fragment"
+        android:visibility="gone"
+        tools:listitem="@layout/efp__list_item" />
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/lay_edit_file_fragment"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:columnWidth="64dp"
+        android:horizontalSpacing="4dp"
+        android:verticalSpacing="15dp"
+        android:visibility="gone"
+        tools:listitem="@layout/efp__grid_item" />
+
+</RelativeLayout>

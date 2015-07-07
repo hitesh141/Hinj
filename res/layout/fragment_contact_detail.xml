@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#dddddd"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:id="@+id/back_contact_detail"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:paddingLeft="10dip" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_back" />
+
+            <ImageView
+                android:id="@+id/contact_imageView"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:paddingLeft="5dp"
+                android:src="@drawable/icon_user" />
+
+            <TextView
+                android:id="@+id/header_username_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:text="UserName"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/update_contaact_imag"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center|right" >
+
+            <ImageView
+                android:id="@+id/contact_select_all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/icon_edit_contact_details" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mobile_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Mobile"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/mobile_txt_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="945453453"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mobile_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/email_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="E-mail"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/emial_txt_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="a@gmail.com"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/email_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/address_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Address"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/address_txt_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123 dsdf"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/address_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <!-- #################################### -->
+
+    <LinearLayout
+        android:id="@+id/job_title_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Job Title"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123 dsdf"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/job_title_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/last_name_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Last Name"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123 dsdf"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/last_name_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/organisation_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Organisation"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123 dsdf"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/organisation_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/zip_code_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Zip Code"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123 dsdf"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/zip_code_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/phone_lay_contact_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:paddingLeft="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true"
+            android:text="Phone"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123 dsdf"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/phone_lay_contact_detail_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#939395"
+        android:visibility="gone" />
+
+</LinearLayout>

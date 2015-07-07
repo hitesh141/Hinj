@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/asynctask
+END
+ContactsAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/asynctask/ContactsAsyncTask.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/asynctask/Utils.java
+END
+MusicAlbumIconUploadAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/MusicAlbumIconUploadAsyncTask.java
+END
+ApkUploadAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/asynctask/ApkUploadAsyncTask.java
+END
+InstalledAppAsynctask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/InstalledAppAsynctask.java
+END
+MusicAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/asynctask/MusicAsyncTask.java
+END
+CallDetailsAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/CallDetailsAsyncTask.java
+END
+ContactImageUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/src/com/hinj/asynctask/ContactImageUpload.java
+END
+BrowserAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/asynctask/BrowserAsyncTask.java
+END
+FileUploadAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/asynctask/FileUploadAsyncTask.java
+END
+DeleteSMSAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/asynctask/DeleteSMSAsyncTask.java
+END
+PermissionAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7879/Hinj_App/code/Hinj/src/com/hinj/asynctask/PermissionAsyncTask.java
+END
+PhotoAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/PhotoAsyncTask.java
+END
+ApkIconUploadAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/asynctask/ApkIconUploadAsyncTask.java
+END
+ClipboardAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/ClipboardAsyncTask.java
+END
+DeleteCallLogAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/asynctask/DeleteCallLogAsyncTask.java
+END
+SMSAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/SMSAsyncTask.java
+END
+VideoAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/VideoAsyncTask.java
+END
+OnOffAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/asynctask/OnOffAsyncTask.java
+END
+DeviceInfoAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/asynctask/DeviceInfoAsyncTask.java
+END
+CountUpdateUploading.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/asynctask/CountUpdateUploading.java
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+7878
+http://192.168.1.11:8080/svn/Android/Hinj_App/code/Hinj/src/com/hinj
+http://192.168.1.11:8080/svn/Android
+
+
+
+2015-03-09T05:51:30.148837Z
+7856
+hiteshm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eaf4c0b1-881c-054f-9045-4ed489ea4656
+
+app
+dir
+
+asynctask
+dir
+
+imageload
+dir
+
+parsing
+dir
+
+communication
+dir
+
+secure
+dir
+
+globalData
+dir
+

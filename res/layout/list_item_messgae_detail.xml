@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chatdetaillayout_Parent"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/chatdetailrawlayout_RLTopSender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dip" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:background="#56c2da"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/chatdetailrawlayout_lastMessageSendertext"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/image_send"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/chatdetailrawlayout_lastMessageSendertime"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/chatdetailrawlayout_RLBottomReceiver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chatdetailrawlayout_RLTopSender"
+        android:layout_marginLeft="30dip"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:background="#ceabf8"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/chatdetailrawlayout_lastMessageReceivertext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/image_receive"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/chatdetailrawlayout_lastMessageReceivertime"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:padding="2dp"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

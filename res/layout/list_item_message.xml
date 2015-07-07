@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/message_row_mainLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:paddingBottom="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="15dip" >
+
+        <ImageView
+            android:id="@+id/contact_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dip"
+            android:background="@drawable/icon_user" />
+
+        <LinearLayout
+            android:layout_width="195dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/sender_name_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:singleLine="true"
+                android:text="Device 1 Name"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/test_msg_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.69"
+                android:ems="10"
+                android:singleLine="true"
+                android:text="Device 1 Name" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sms_time_text_view"
+            android:layout_width="117dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:ems="10"
+            android:paddingLeft="5dip"
+            android:singleLine="true"
+            android:text="23:23 pm" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:layout_marginTop="2dip"
+        android:background="#e9eaec" >
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Android/!svn/ver/7856/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement
+END
+PhotosFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/PhotosFragment.java
+END
+MusicListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/MusicListFragment.java
+END
+CameraCaptureFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/CameraCaptureFragment.java
+END
+FilesFragmentBottomBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/FilesFragmentBottomBar.java
+END
+ContactsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/ContactsFragment.java
+END
+MusicFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/MusicFragment.java
+END
+MessageFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/MessageFragment.java
+END
+LocateDeviceFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/LocateDeviceFragment.java
+END
+HomeFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/HomeFragment.java
+END
+VideosFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Android/!svn/ver/7916/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/VideosFragment.java
+END
+VideoDetailFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/VideoDetailFragment.java
+END
+InstallAppsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/InstallAppsFragment.java
+END
+AccountFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/AccountFragment.java
+END
+ContactUpdateFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/ContactUpdateFragment.java
+END
+CallLogsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/CallLogsFragment.java
+END
+CotactDetailFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/CotactDetailFragment.java
+END
+CallLogDetailFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/CallLogDetailFragment.java
+END
+PhotoDetatilFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/PhotoDetatilFragment.java
+END
+SettingsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/SettingsFragment.java
+END
+VideoViewFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/VideoViewFragment.java
+END
+FilesFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/FilesFragment.java
+END
+ShareFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7916/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/ShareFragment.java
+END
+FileDetailFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/FileDetailFragment.java
+END
+AppsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7940/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/AppsFragment.java
+END
+BrowserHistoryFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/BrowserHistoryFragment.java
+END
+UploadFromMusicListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/UploadFromMusicListFragment.java
+END
+MessageDetailFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/MessageDetailFragment.java
+END
+PhotoFullViewFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/PhotoFullViewFragment.java
+END
+AboutFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/fragement/AboutFragment.java
+END

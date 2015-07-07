@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#cd3333"
+    android:orientation="vertical"
+    android:weightSum="2" >
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:layout_weight="1"
+        android:background="#cd3333"
+        android:gravity="center"
+        tools:ignore="UselessParent" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="21dp"
+            android:text="URL: "
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|right"
+        android:layout_marginBottom="10dip"
+        android:layout_marginRight="15dip"
+        android:layout_weight="1"
+        android:background="#cd3333"
+        android:gravity="right|center"
+        tools:ignore="UselessParent" >
+
+        <Button
+            android:id="@+id/buttonBuy"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/buy_btn"
+            android:text="Copy"
+            android:textColor="#cd3333"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/buttonBuy"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/buy_btn"
+            android:text="Paste"
+            android:textColor="#cd3333"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</LinearLayout>

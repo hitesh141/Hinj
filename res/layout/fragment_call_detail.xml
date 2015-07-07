@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- for title -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/linedesc_back_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:onClick="onbackPress" />
+
+        <LinearLayout
+            android:id="@+id/call_LL"
+            android:layout_width="match_parent"
+            android:layout_height="45dip"
+            android:background="#f3f4f6"
+            android:gravity="center|left"
+            android:weightSum="2" >
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center|left"
+                android:paddingLeft="10dip" >
+
+                <ImageView
+                    android:id="@+id/back_imageView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_calldetailcall" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/contact_text_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                    <TextView
+                        android:id="@+id/contact_number_text_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#000" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/send_txt_msg_LL"
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="#f3f4f6"
+        android:gravity="center|left"
+        android:weightSum="2" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center|left"
+            android:paddingLeft="10dip" >
+
+            <ImageView
+                android:id="@+id/back_imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_calldetailmessage" />
+
+            <TextView
+                android:id="@+id/contact_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:singleLine="true"
+                android:text="Send Text Message"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#000" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view_contact_LL"
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="#f3f4f6"
+        android:gravity="center|left"
+        android:weightSum="2" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center|left"
+            android:paddingLeft="10dip" >
+
+            <ImageView
+                android:id="@+id/back_imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_calldetailviewdetail" />
+
+            <TextView
+                android:id="@+id/contact_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:text="View Contact"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#000" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/delete_from_call_log_LL"
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="#f3f4f6"
+        android:gravity="center|left"
+        android:weightSum="2" >
+
+        <LinearLayout
+            android:id="@+id/delete_calls_detail"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center|left"
+            android:paddingLeft="10dip" >
+
+            <ImageView
+                android:id="@+id/back_imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_calldetaildelete" />
+
+            <TextView
+                android:id="@+id/contact_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:singleLine="true"
+                android:text="Delete From Call Logs"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#000" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="#f3f4f6"
+        android:gravity="center|left"
+        android:weightSum="2" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center|left"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/contact_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:paddingLeft="10dip"
+                android:singleLine="true"
+                android:text="History"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#5581c9" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="5dip"
+                android:background="#5581c9" >
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#000" >
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/calllog_detail_layout_listView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:cacheColorHint="#00000000"
+        android:divider="#00000000"
+        android:focusable="true"
+        android:listSelector="@android:color/transparent"
+        android:paddingTop="10dip"
+        android:scrollingCache="false" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/src/com/hinj/app/model
+END
+FileDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/app/model/FileDataBean.java
+END
+GpsDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/GpsDetailBean.java
+END
+PhotoDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/PhotoDetailBean.java
+END
+ContactDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/model/ContactDetailBean.java
+END
+ContedChilDeviceDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/ContedChilDeviceDetailBean.java
+END
+CallHistoryDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/CallHistoryDetailBean.java
+END
+DeviceDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/DeviceDetailBean.java
+END
+NavDrawerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/NavDrawerItem.java
+END
+SmsDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Android/!svn/ver/7879/Hinj_App/code/Hinj/src/com/hinj/app/model/SmsDetailBean.java
+END
+SmsChatDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/SmsChatDetailBean.java
+END
+ConnectedDeviceDetailBean2.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/ConnectedDeviceDetailBean2.java
+END
+VideoDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/VideoDetailBean.java
+END
+InstallAppDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/app/model/InstallAppDetailBean.java
+END
+FilePropertiesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/FilePropertiesBean.java
+END
+CallDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/src/com/hinj/app/model/CallDetailBean.java
+END
+MediaDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/MediaDetailBean.java
+END
+ConnectedDevicesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/ConnectedDevicesBean.java
+END
+BrowserHistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/model/BrowserHistoryBean.java
+END

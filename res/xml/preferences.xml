@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:key="enabled"
+        android:title="@string/enabled" />
+
+    <ListPreference
+        android:defaultValue="all"
+        android:entries="@array/which_contacts"
+        android:entryValues="@array/which_contacts_values"
+        android:key="which_contacts"
+        android:title="@string/which_contacts" />
+    <ListPreference
+        android:defaultValue="2"
+        android:entries="@array/delay"
+        android:entryValues="@array/delay_values"
+        android:key="delay"
+        android:title="@string/delay" />
+
+    <CheckBoxPreference
+        android:key="use_speakerphone"
+        android:title="@string/use_speakerphone" />
+    <CheckBoxPreference
+        android:key="headset_only"
+        android:title="@string/headset_only" />
+    <CheckBoxPreference
+        android:key="no_second_call"
+        android:title="@string/no_second_call" />
+
+    <com.everysoft.autoanswer.preference.AutoAnswerDialogPreference
+        android:dialogIcon="@drawable/ic_launcher"
+        android:dialogMessage="@string/about_message"
+        android:dialogTitle="@string/about_title"
+        android:key="about"
+        android:negativeButtonText="@null"
+        android:src="@drawable/ic_launcher"
+        android:title="@string/about_title" />
+    <com.everysoft.autoanswer.preference.AutoAnswerDialogPreference
+        android:dialogIcon="@drawable/ic_launcher"
+        android:dialogMessage="@string/license_message"
+        android:dialogTitle="@string/license_title"
+        android:key="license"
+        android:negativeButtonText="@null"
+        android:src="@drawable/ic_launcher"
+        android:title="@string/license_title" />
+
+</PreferenceScreen>

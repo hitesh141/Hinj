@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f3f4f6"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="#da4a47"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textViewHeaderTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@+id/buttonAddContact"
+            android:layout_toRightOf="@+id/buttonBack"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/buttonAddContact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:text="Add"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="35dip"
+            android:layout_height="35dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:background="@drawable/leftarrow" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/scan_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="launchScanner"
+        android:text="scan" />
+
+    <Button
+        android:id="@+id/qrscan_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="launchQRScanner"
+        android:text="Scan QR Code" />
+
+</LinearLayout>

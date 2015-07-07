@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Android/!svn/ver/7856/Hinj_App/code/Hinj/src/com/hinj/app/activity
+END
+ForgotPasswordActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/ForgotPasswordActivity.java
+END
+BarcodeScanActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/BarcodeScanActivity.java
+END
+RegisterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/RegisterActivity.java
+END
+ShowConnectedDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Android/!svn/ver/7945/Hinj_App/code/Hinj/src/com/hinj/app/activity/ShowConnectedDevice.java
+END
+DashBoardActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7940/Hinj_App/code/Hinj/src/com/hinj/app/activity/DashBoardActivity.java
+END
+LoadMoreListViewCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/LoadMoreListViewCode.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/app/activity/LoginActivity.java
+END
+ConnectDeviceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/ConnectDeviceActivity.java
+END
+SplashActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7941/Hinj_App/code/Hinj/src/com/hinj/app/activity/SplashActivity.java
+END
+GCMIntentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7851/Hinj_App/code/Hinj/src/com/hinj/app/activity/GCMIntentService.java
+END
+MyPushRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/MyPushRegister.java
+END
+SettingsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7939/Hinj_App/code/Hinj/src/com/hinj/app/activity/SettingsActivity.java
+END
+GCMBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/app/activity/GCMBroadcastReceiver.java
+END

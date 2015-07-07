@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Android/!svn/ver/7856/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps
+END
+DemoDeviceAdminReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/DemoDeviceAdminReceiver.java
+END
+BluetoothHeadset.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/BluetoothHeadset.java
+END
+CheckBrosweUrlBackgroundService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Android/!svn/ver/7945/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CheckBrosweUrlBackgroundService.java
+END
+CallOnOffAnsycTaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CallOnOffAnsycTaskService.java
+END
+CallGPSService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CallGPSService.java
+END
+tD.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Android/!svn/ver/7911/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/tD.java
+END
+CheckCameraCaptureStatusAlarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Android/!svn/ver/7941/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CheckCameraCaptureStatusAlarmService.java
+END
+ResetAll_CountPre_Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/ResetAll_CountPre_Receiver.java
+END
+WhiteScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/WhiteScreen.java
+END
+CallCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CallCamera.java
+END
+GPSAlarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/GPSAlarmService.java
+END
+DownloadAppAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Android/!svn/ver/7922/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/DownloadAppAsyncTask.java
+END
+Splashscreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/Splashscreen.java
+END
+TrafficSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/TrafficSnapshot.java
+END
+CheckCameraCaptureStatusBackgroundService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CheckCameraCaptureStatusBackgroundService.java
+END
+CallBlockActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CallBlockActivity.java
+END
+DataCountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/DataCountService.java
+END
+NonRootedAlarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7883/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/NonRootedAlarmService.java
+END
+FakeScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/FakeScreen.java
+END
+DataCountUpdateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/DataCountUpdateService.java
+END
+GPSService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/GPSService.java
+END
+BlockScreenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/BlockScreenService.java
+END
+TrafficRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/TrafficRecord.java
+END
+GPSFirstTimeAlarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/GPSFirstTimeAlarmService.java
+END
+CheckBrowseUrlAlarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Android/!svn/ver/7941/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CheckBrowseUrlAlarmService.java
+END
+DeviceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/7941/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/DeviceInterface.java
+END
+SimpleWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/SimpleWindow.java
+END
+OneTimeCallGPSService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/OneTimeCallGPSService.java
+END
+SmsReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/SmsReceiver.java
+END
+CallNonRBackgroundService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/7941/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CallNonRBackgroundService.java
+END
+LocationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/7853/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/LocationUtils.java
+END
+ChildOnOFFStatusAlarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/ChildOnOFFStatusAlarm.java
+END
+CallRecordBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Android/!svn/ver/7798/Hinj_App/code/Hinj/src/com/hinj/secure/smsgps/CallRecordBroadcast.java
+END
